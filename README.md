@@ -10,7 +10,16 @@ This project focuses on analyzing retail sales data for Maven Mark using Microso
 - **Tool:** Microsoft Power BI
 - **Domain:** Retail / Sales Analytics
 - **Project Type:** Business Intelligence and Data Visualization
+## 📊 Dashboard Screenshots
 
+### 1. Sales Dashboard Overview
+![Sales Dashboard](https://github.com/Abhishekpacharne/maven-market/blob/main/screenshot/Screenshot%202026-10-15%20164522.png)
+
+### 2. KPI Dashboard
+![KPI Dashboard](images/dashboard-kpis.png)
+
+### 3. Sales Analysis Dashboard
+![Sales Analysis](images/dashboard-analysis.png)
 ## 🎯 Project Objectives
 
 - Analyze total sales, revenue, cost, and profit.

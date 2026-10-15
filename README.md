@@ -16,10 +16,10 @@ This project focuses on analyzing retail sales data for Maven Mark using Microso
 ![Sales Dashboard](https://github.com/Abhishekpacharne/maven-market/blob/main/screenshot/Screenshot%202026-10-15%20164522.png)
 
 ### 2. KPI Dashboard
-![KPI Dashboard](images/dashboard-kpis.png)
+![KPI Dashboard](https://github.com/Abhishekpacharne/maven-market/blob/main/screenshot/Screenshot%202026-10-15%20164628.png)
 
 ### 3. Sales Analysis Dashboard
-![Sales Analysis](images/dashboard-analysis.png)
+![Sales Analysis](https://github.com/Abhishekpacharne/maven-market/blob/main/screenshot/Screenshot%202026-10-15%20164655.png)
 ## 🎯 Project Objectives
 
 - Analyze total sales, revenue, cost, and profit.
